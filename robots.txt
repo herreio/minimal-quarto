@@ -1,0 +1,1 @@
+Sitemap: https://herreio.github.io/minimal-quarto/sitemap.xml
